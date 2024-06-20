@@ -36,6 +36,7 @@ void game()
 	FineMine(mine,show,ROW,COL);
 }
 
+//≤‚ ‘
 void test()
 {
 	int input = 0;
